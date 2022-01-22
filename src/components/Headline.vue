@@ -14,6 +14,10 @@
 
 <style lang="scss" scoped>
 @import "~/scss/main";
+  .container {
+    padding-top: 40px;
+  }
+
   h1 {
     line-height: 1;
     font-family: "Oswald", sans-serif;
